@@ -82,6 +82,11 @@
 
 - คลิกขวา ในตารางท่านต้องการ login ที่จอไหนให้เลือกจอนั้น
 - กด Login
+  
 ![Screenshot 2024-05-06 032643](https://github.com/nattikomatti/-BotYGC/assets/45087644/c44caed7-1e24-4cc8-b405-37c5272cd9c0)
+
 - เลือก ID ที่ต้องการ Login และกด Login
 - Active คือ การเด้งหน้าจอนั้นขึ้นมา หรือท่านสามารถดับเบิลคลิกในตารางก็ได้
+
+### จัดทำโดย
+<a>www.Natty-grow.com</a>
