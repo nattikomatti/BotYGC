@@ -24,6 +24,8 @@
 <a>https://drive.google.com/file/d/1KRNa0zfpapxFlYvPCgab3ToIeRXhJdOh/view?usp=sharing</a>
 
 Key : jzaztlshzt20240322212501
+
+จะขอทดลองใช้ทักมาหาผม นะครับ
 ## ติดต่อเช่า Facebook
 <a>https://www.facebook.com/Nattygrow/</a>
 ## ติดต่อเช่า Discord
