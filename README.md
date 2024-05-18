@@ -29,7 +29,7 @@ Key : jzaztlshzt20240322212501
 ## ติดต่อเช่า Facebook
 <a>https://www.facebook.com/Nattygrow/</a>
 ## ติดต่อเช่า Discord
-<a>https://discord.gg/EYTfX95s</a>
+<a>https://discord.gg/tmZ5frsKq9</a>
 
 ## ติดตั้ง
 ติดตั้งโปรแกรมตามปกติเลือกที่อยู่ตามที่ท่านต้องการ โปรแกรมใช้ .netframework 4.8 โดยปกติ ตั้งแต่ windows 10 จะมีให้อยู่แล้ว
