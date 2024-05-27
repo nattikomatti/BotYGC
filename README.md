@@ -92,5 +92,14 @@ Key : jzaztlshzt20240322212501
 - เลือก ID ที่ต้องการ Login และกด Login
 - Active คือ การเด้งหน้าจอนั้นขึ้นมา หรือท่านสามารถดับเบิลคลิกในตารางก็ได้
 
+### แก้ปัญหาใช้โปรแกรมไม่ได้
+หากเกิดปัญหาดังภาพ
+![5e58d44d-1637-405a-a3bb-292ed1e5abed](https://github.com/nattikomatti/BotYGC/assets/45087644/7024b720-906e-405e-a832-da3f86663156)
+การแก้ ปัญหา  Error Root element is missing
+นำไปพิมใส่ใน path    %USERPROFILE%\AppData\Local\www.natty-grow.com
+ และลบไฟล์ข้างในทั้งหมด
+
+![image](https://github.com/nattikomatti/BotYGC/assets/45087644/64cf48e1-e6a3-43ff-9f4a-92ad693cecf7)
+
 ### จัดทำโดย
 <a>https://www.Natty-grow.com</a>
