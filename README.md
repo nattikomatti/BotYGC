@@ -21,9 +21,7 @@
 โปรแกรมนี้พัฒนาด้วย Visual Studio 2022
 
 ## ดาวน์โหลด
-<a>[https://drive.google.com/file/d/1KRNa0zfpapxFlYvPCgab3ToIeRXhJdOh/view?usp=sharing](https://drive.google.com/file/d/1KRNa0zfpapxFlYvPCgab3ToIeRXhJdOh/view)</a>
-
- 
+ <a>https://drive.google.com/file/d/1-KlKDG3BxhIcDAAFpq9Ctx1meEAptrqL/view?usp=sharing</a>
 
 จะขอทดลองใช้ทักมาหาผม นะครับ
 ## ติดต่อเช่า Facebook
